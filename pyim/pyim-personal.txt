@@ -1,0 +1,329 @@
+;; -*- coding: utf-8 -*-
+a 案
+an 案
+b 不 部 宝 本 保 被 变 补
+b-d 拜读
+bai-du 拜读
+bao 宝 保
+bei 被
+bian 变
+bu 不 部 补
+c 创 车 盛 曹 初 成 存 产 程
+c-l-s 程灵素
+c-q 采取
+c-s 测试 初三
+c-w 错误
+cai-qu 采取
+ce-shi 测试
+chan 产
+cheng 盛 成 程
+cheng-ling-su 程灵素
+cun 存
+cuo-wu 错误
+d 的 单 动 到 大 地 代 端 段 短
+d-m 代码
+d-z 动作
+dai 代
+dai-ma 代码
+dao 到
+de 的
+dong-zuo 动作
+duan 端 段 短
+f 分 飞 份 方 访 发
+fa 发
+fang 方 访
+g 该 国 构 根 高 个 工
+g-d 归档
+g-j 工具
+ge 个
+gong 工
+gong-ju 工具
+gui-dang 归档
+h 火 合 和 河 行 花 虹 欢 户 海 护 好 化
+h-c 会车
+h-z 汉制
+han-zhi 汉制
+he 合 和 河
+hua 花 化
+hui-che 会车
+huo 火 和
+j 建 级 机 骏 俱 据 见 具 将 键
+j-r 加入
+jia-ru 加入
+jian 建 见 键
+jiang 将
+ju 俱 据 具
+k 开 口 库 可
+k-y 可以
+ke 可
+ke-yi 可以
+l 李 乐 丽 理 历 两 里 灵
+l-m 里面
+l-w 另外
+li 李 丽 理 历 里
+li-mian 里面
+liang 两
+ling 灵
+ling-wai 另外
+m 美 面
+m-m 密码
+mi-ma 密码
+mian 面
+n 年 内 女
+n-h-z 女汉子 女汉制
+nei 内
+nv 女
+nv-han-zhi 女汉制
+nv-han-zi 女汉子
+p 培 配
+pei 培 配
+q 区 其 期 球 请 确 前 起 全 齐
+qi 其 期 起 齐
+qian 前
+qing 请
+quan 全
+s 三 属 设 盛 申 市 输 身 苏 诉 数 上 生 史 使 是 释 素
+s-g 搜狗
+s-m 上面
+s-m-q 上面齐
+s-y 使用
+shang-mian 上面
+shang-mian-qi 上面齐
+sheng 盛 生
+shi 市 史 使 是 释
+shi-yong 使用
+sou-gou 搜狗
+su 苏 诉 素
+t 头 他 同 题 替
+t-d 土豆
+t-x 填写
+t-z 通知
+ti 题 替
+tian-xie 填写
+tong-zhi 通知
+tu-dou 土豆
+w 位 物 文 完 问
+w-d 文档
+w-d-g-d 文档归档
+w-j 文件
+w-t 问题
+wan 完
+wen 文 问
+wen-dang 文档
+wen-dang-gui-dang 文档归档
+wen-jian 文件
+wen-ti 问题
+x 县 下 训 向 行 徐 协 息 信 学 小
+x-m 下面
+x-t 相同
+x-y 需要
+xia 下
+xia-mian 下面
+xiang-tong 相同
+xu-yao 需要
+y 已 于 银 阳 誉 叶 饔 乐 迎 用 样 一 语 英 以
+y-c 原创
+y-h-m 用户名
+yi 已 一 以
+yong-hu-ming 用户名
+yuan-chuang 原创
+z 在 直 转 自 朱 之 足 证 中 这 注 纸
+z-q 正确 足球
+z-s 这是 走失 直属
+z-y 作用 作俑
+z-z 转载
+zai 在
+zhe 这
+zhe-shi 这是
+zheng-que 正确
+zhi 直 之 纸
+zhu 朱 注
+zhuan-zai 转载
+zou-shi 走失
+zuo-yong 作用 作俑
+que 确
+ren 人 认
+r 如 入 人 认
+que-ren 确认
+q-r 确认
+xiao 小
+xue 学
+xiao-xue 小学
+x-x 信息 小学
+er 二
+e 二
+nian 年
+ji 级 机
+nian-ji 年级
+n-j 年级
+san 三
+san-nian-ji 三年级
+s-n-j 三年级
+chu 初
+chu-yi 初一
+c-y 初一
+gao 高
+zhong 中
+gao-zhong 高中
+g-z 高中
+yu 于 誉 语
+yu-wen 语文
+y-w 语文
+shu 属 输 数
+shu-xue 数学
+s-x 数学
+ying 迎 英
+ying-yu 英语
+y-y 英语
+wu 物
+wu-li 物理
+w-l 物理
+hua-xue 化学
+h-x 化学
+sheng-wu 生物
+s-w 生物
+li-shi 历史
+l-s 历史
+di 地
+di-li 地理
+d-l 地理
+yi-nian-ji 一年级
+y-n-j 一年级
+er-nian-ji 二年级
+e-n-j 二年级
+chu-san 初三
+ku 库
+ti-ku 题库
+t-k 题库
+mei 美
+mei-li-ren-sheng 美丽人生
+m-l-r-s 美丽人生
+hao 好
+hu 户 护
+bao-hu 保护
+b-h 保护
+da 大
+da-shu-ju 大数据
+d-s-j 大数据
+shang 上
+hai 海
+shang-hai 上海
+s-h 申花 上海
+shu-ju 数据
+s-j 三级 数据
+yang 阳 样
+ben 本
+yang-ben 样本
+y-b 样本
+yong 饔 用
+yong-hu 用户
+y-h 用户
+xin 信
+xi 息
+xin-xi 信息
+shen 申 身
+fen 分 份
+zheng 证
+fen-zheng 份证
+f-z 份证
+ru 如 入
+shu-ru 输入
+s-r 输入
+huan 欢
+huan-ying 欢迎
+h-y 欢迎
+shang-hai-shi 上海市
+s-h-s 上海市
+zu 足
+xie 协
+zu-xie 足协
+z-x 足协
+hong 虹
+kou 口
+qu 区
+hong-kou-qu 虹口区
+h-k-q 虹口区
+shen-hua 申花
+qiu 球
+zu-qiu 足球
+yue 乐
+le 乐
+ju-yue-bu 俱乐部
+j-y-b 俱乐部
+ju-le-bu 俱乐部
+j-l-b 俱乐部
+xu 徐
+gen 根
+xu-gen-bao 徐根宝
+x-g-b 徐根宝
+cao 曹
+ye 叶
+xing 行
+hang 行
+ye-xing-zhi 叶行之
+y-x-z 叶行之
+ye-hang-zhi 叶行之
+y-h-z 叶行之
+ye-sheng-yu 叶盛誉
+y-s-y 叶盛誉
+ye-cheng-yu 叶盛誉
+y-c-y 叶盛誉
+gou 构
+ji-gou 机构
+j-g 机构
+xiang 向
+yin 银
+jun 骏
+guo 国
+li-guo 李国
+l-g 李国
+fei 飞
+li-guo-fei 李国飞
+l-g-f 李国飞
+xun 训
+tong 同
+he-tong 和同
+h-t 和同
+huo-tong 和同
+pei-xun 培训
+p-x 培训
+dao-qi 到期
+d-q 到期
+qi-xia 其下
+q-x 区县 其下
+zi 自
+dong 动
+zi-dong 自动
+z-d 自动
+zhuan 转
+zhuan-ru 转入
+z-r 转入
+gai 该
+zhi-shu 直属
+dan 单
+wei 位
+dan-wei 单位
+d-w 单位
+san-ji 三级
+ta 他
+qi-ta 其他
+q-t 其他
+xian 县
+qu-xian 区县
+kai 开
+she 设
+kai-she 开设
+k-s 开设
+fen-bu 分部
+f-b 分部
+bu-shu-yu 不属于
+b-s-y 不属于
+er-ji 二级
+e-j 二级
+che 车
+tou 头
+huo-che-tou 火车头
+h-c-t 火车头
+chuang 创
+yi-chuang-jian 已创建
+y-c-j 已创建

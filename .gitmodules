@@ -1,0 +1,18 @@
+[submodule "lib/snippets"]
+	path = lib/snippets
+	url = https://github.com/gfanton/yasnippet-snippets.git
+[submodule "lib/org-html-themes"]
+	path = lib/org-html-themes
+	url = https://github.com/fniessen/org-html-themes.git
+[submodule "lib/project-skeletons"]
+	path = lib/project-skeletons
+	url = https://github.com/gfanton/project-skeletons.git
+[submodule "lib/hyde"]
+	path = lib/hyde
+	url = https://github.com/nibrahim/Hyde.git
+[submodule "lib/jekyll"]
+	path = lib/jekyll
+	url = https://github.com/0x414A/spacemacs-jekyll.git
+[submodule "lib/logo"]
+	path = lib/logo
+	url = https://github.com/nashamri/spacemacs-logo.git
